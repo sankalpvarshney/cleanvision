@@ -20,3 +20,6 @@ image_files*
 
 # datasets
 cifar*
+
+# env
+env
